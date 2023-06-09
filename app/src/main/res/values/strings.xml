@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">2023 Live Maps</string>
+
+    <string name="mapbox_access_token">sk.eyJ1IjoiZm94LSIsImEiOiJjbGZ2d2w1a2kwYmZqM2RxcDE3Z2RuaWdjIn0.0qxHdGZWD-YaZ2_f6B1FIQ</string>
+
+    <string name="facebook_app_id" translatable="false">672044143874680</string>
+    <string name="facebook_app_token" translatable="false">922f203819d03c76c2f4f992d034d550</string>
+
+</resources>
